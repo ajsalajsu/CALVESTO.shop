@@ -130,7 +130,7 @@ span{
         font-size: 10px;
     }
     .carousel{
-        height: 600px;
+        height: 97%;
     }
     .carousel .list .item{
         width: 100%;
@@ -160,8 +160,5 @@ span{
         display: flex;
         width: max-content;
         float: right;
-    }
-    body{
-        overflow: hidden;
     }
 }
